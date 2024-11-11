@@ -1,0 +1,1 @@
+# Examples from the [Black Hat Rust](https://github.com/skerkour/black-hat-rust)  Book  
